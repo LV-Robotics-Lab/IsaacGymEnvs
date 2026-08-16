@@ -17,7 +17,7 @@ To use TacSL policy learning module within the **deprecated** Isaac Gym simulato
 conda create --name tacsl python==3.8
 ```
 
-- Download TacSL-specific Isaac Gym binary from [here](https://drive.google.com/file/d/1FHs1tf3QajvYb11UkLaLcDD9THL-C0G5/view?usp=sharing)
+- Obtain the TacSL-specific Isaac Gym binary through an authorized upstream distribution channel (the former restricted Drive link has been removed).
 and pip install within python 3.8:
 ```commandline
 pip install -e IsaacGym_Preview_TacSL_Package/isaacgym/python/
@@ -38,7 +38,7 @@ pip install -e ./rl_games
 ```commandline
 pip install -r requirements.txt
 ```
-- Download the Gelsight assets from [here](https://drive.google.com/file/d/1kf-F4RdHdKiNZpNLi-fSV-KE0ny72_L0/view?usp=sharing) and place them in the IGE folder [here](../../../assets/tacsl/mesh)
+- Obtain the Gelsight assets through an authorized upstream distribution channel and place them in the IGE folder [here](../../../assets/tacsl/mesh) (the former restricted Drive link has been removed).
 
 ---
 ## Running
